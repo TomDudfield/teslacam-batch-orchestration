@@ -1,4 +1,4 @@
-azure-core
-azure-functions
-azure-storage-blob
-azure-batch
+azure-core=1.31.0
+azure-functions=1.21.3
+azure-storage-blob=12.23.1
+azure-batch=14.2.0
